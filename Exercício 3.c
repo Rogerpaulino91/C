@@ -2,7 +2,7 @@
 // Ler uma temperatura em Fahrenheit e imprimir o equivalente em Celsius C=(5F-160)/9. //
 // Ler uma quantidade de chuva dada em polegadas e imprimir o equivalente em milímetros (1 polegada = 25,4 mm). //
 
-/*include<stdio.h>
+#include<stdio.h>
 #include<math.h>
 #define milimetro_pol 25.4
 
