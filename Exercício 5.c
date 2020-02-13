@@ -1,4 +1,4 @@
-// // Escreva um algoritmo para calcular o consumo médio de um automóvel (medido em Km/l) //
+// // Escrever um algoritmo que lê o número de funcionário, seu número de horas trabalhadas, o valor que recebe por hora. //
  // o número de filhos com idade menor que 14 anos e o valor do salário família (pago por filho com menos de 14 anos).//
 //Calcular o salário total deste funcionário e escrever o seu número e o seu salário total.
 
