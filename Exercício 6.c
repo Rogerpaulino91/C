@@ -1,6 +1,9 @@
-// Escrever um algoritmo que lê o valor de uma compra em dólares // 
-// a taxa do dólar no dia da compra, o percentual de ICMS e o percentual de lucro da empresa // 
-// e calcular e escrever o valor a ser pago em reais, sabendo-se que o percentual de lucro e o percentual de ICMS incidem sobre o valor em reais // 
+// Um hotel com 42 apartamentos resolveu fazer promoções para os fins de semana fora da alta temporada // 
+// isto é, nos meses de abril, maio, junho, agosto, setembro, outubro e novembro. A taxa da promoção é de 22% da diária normal// 
+// A ocupação média do hotel sem promoção é de 40% // 
+// a taxa de ocupação subindo para 70% escrever um algoritmo que lê a diária normal e calcula //
+// O valor da diária no período da promoção. //
+// 
 
 #include<stdio.h>
 #include<math.h>
@@ -20,6 +23,6 @@ int main
  	printf("O VALOR PAGO EM REIAS = %.2f\n",comprareais);
 
  	return 0;
- 	
+
 
  }
